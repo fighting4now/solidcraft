@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/apps/solidcraft-cli/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apps/solidcraft-cli/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apps/solidcraft-cli/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/apps/solidcraft-web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/apps/solidcraft/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/derive/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/doc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/engine/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/engine/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/engine/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/geom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/gpu/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/gpu/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/io/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/kernel/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/kernel/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/kernel/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/mcp/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/profile/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/render/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/render/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/sketch/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/sketch/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/sketch/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/smlib/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/smlib/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/space-mouse/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/step/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/testkit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/threedx-client/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/threedx-client/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/ui-egui/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/ui-egui/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/ui-egui/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/xtask/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/dynamics/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
