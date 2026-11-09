@@ -40,3 +40,17 @@ git merge main
 
 ```
 
+
+```shell
+# 提交之前配置免登录配置
+# 连续按回车，接受默认的密钥保存路径（~/.ssh/id_ed25519）
+ssh-keygen -t ed25519 -C "1633040621@qq.com"
+# 添加公钥到代码托管平台
+cat ~/.ssh/id_ed25519.pub
+
+```
+
+# 将 HTTPS 改成 SSH
+git remote set-url origin git@github.com:fighting4now/solidcraft.git
+git push -u origin dev_learning
+git push
